@@ -14,4 +14,3 @@ int main ()
 		y=x;
 		printf ("%d\n", x+y<=z);
 }
-		
